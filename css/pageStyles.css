@@ -45,3 +45,11 @@ img {
     border-color: #8ff9db;
     margin: 0.250rem;
 }
+
+nav {
+    background-color: #000000;
+}
+
+nav li {
+    list-style-type: none;
+}
