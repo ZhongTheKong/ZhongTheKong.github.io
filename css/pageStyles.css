@@ -53,3 +53,11 @@ nav {
 nav li {
     list-style-type: none;
 }
+
+.joblist div {
+    margin-bottom: 1rem;
+}
+
+/* .joblist div li :not(ul) {
+    background-color: #000000;
+} */
